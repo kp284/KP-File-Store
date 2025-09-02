@@ -5,10 +5,10 @@
   KP FILE STORE BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+KP-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@kpbotmaker!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
+![Typing SVG](maker!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
 </p>
 
-### Deploy Tutorial [Video Link](https://youtu.be/VxAn9VcYtQg)
+### Deploy Tutorial [Video Link](https://youtu.be/)
 
 ## Features
 
